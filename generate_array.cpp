@@ -16,3 +16,5 @@ void generate_array(double* array, int array_size, double min_value, double max_
         array[i] = integral_part + decimal_part;
     }
 }
+
+// Я добавил комментарий
