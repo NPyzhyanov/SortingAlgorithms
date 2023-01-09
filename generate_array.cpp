@@ -18,3 +18,4 @@ void generate_array(double* array, int array_size, double min_value, double max_
 }
 
 // Я добавил комментарий
+// Я добавил ещё один ненужный комментарий
